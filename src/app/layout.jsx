@@ -5,12 +5,12 @@ import '@/styles/tailwind.css'
 
 export const metadata = {
   title: {
-    template: '%s - Spencer Sharp',
+    template: '%s - Tin Tran',
     default:
-      'Spencer Sharp - Software designer, founder, and amateur astronaut',
+      'Tin Tran - Software developer, entrepreneur, and jack of all trades',
   },
   description:
-    'I’m Spencer, a software designer and entrepreneur based in New York City. I’m the founder and CEO of Planetaria, where we develop technologies that empower regular people to explore space on their own terms.',
+    'I’m Tin, a software developer and entrepreneur based in Ho Chi Minh city, Vietnam. I’m launching my digital agency TUDO, where we offer high ROI solutions for SMMA, copywriting, SEO, and funnel design. Besides I am a full time remote developer for an international company based in France.',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,

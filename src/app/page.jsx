@@ -252,13 +252,14 @@ export default async function Home() {
       <Container className="mt-9">
         <div className="max-w-2xl">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Software designer, founder, and amateur astronaut.
+            Software developer, front-end, and jack of all trades.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Spencer, a software designer and entrepreneur based in New York
-            City. I’m the founder and CEO of Planetaria, where we develop
-            technologies that empower regular people to explore space on their
-            own terms.
+            I’m Tin, a software developer and entrepreneur based in Ho Chi Minh
+            city, Vietnam. I’m launching my digital agency TUDO, where we offer
+            high ROI solutions for SMMA, copywriting, SEO, and funnel design.
+            Besides I am a full time remote developer for an international
+            company based in France.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
